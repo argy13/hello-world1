@@ -1,4 +1,4 @@
 # hello-world1
-My second try
+New effort.. trying to learn
 
 i would like to create filmstorming.com
